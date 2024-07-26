@@ -65,7 +65,7 @@ s()
 b()
 s()
 
-#Update the price of "Steak" to 17.99.
+##Update the price of "Steak" to 17.99.
 
 # print the dictionaary to verify its contents:
 

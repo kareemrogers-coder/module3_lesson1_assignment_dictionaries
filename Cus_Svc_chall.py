@@ -68,8 +68,9 @@ def main():
            continue
         elif ans == "4":
             print("Exiting Service ticketing program....")
+            break
         else:
             print(" Incorrect selection please choose from the below options.")
-        break
+            continue
 
 main ()
